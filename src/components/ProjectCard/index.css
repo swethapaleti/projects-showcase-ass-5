@@ -1,0 +1,16 @@
+.image {
+  width: 250px;
+  border-radius: 10px;
+}
+
+.text-card {
+  background-color: white;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.list-card {
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px #e6e9ec;
+}
